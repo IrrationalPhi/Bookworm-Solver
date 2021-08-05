@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug  5 16:04:29 2021
-
-@author: seanty
 """
 
 from collections import defaultdict
