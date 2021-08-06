@@ -152,7 +152,6 @@ class Trie:
                 for word in line.split():
                     self.add_word(word)
             
-    # something wrong here
     def search_possible_words(self, letters):
         """
         Searches all valid words in trie given a 
